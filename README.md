@@ -52,7 +52,7 @@ L’interface graphique devrait apparaître avec toutes les fonctionnalités dis
 
 ## 📁 Structure du projet
 ```perl
-rsa_secure_messenger_pyqt6/
+RSA_Secure_Messenger/
 │
 rsa_secure_messenger_pyqt6├── app/
 │                         ├── icon.ico         # Icône

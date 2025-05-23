@@ -54,22 +54,22 @@ L’interface graphique devrait apparaître avec toutes les fonctionnalités dis
 ```perl
 rsa_secure_messenger_pyqt6/
 │
-utils├── app/
-│          ├── icon.ico         # Icône
-│          └── gui.py           # Interface PyQt6
-│          crypto.py            # Fonctions de chiffrement/déchiffrement
-│          keys.py              # Génération des clés RSA
+rsa_secure_messenger_pyqt6├── app/
+│                         ├── icon.ico         # Icône
+│                         └── gui.py           # Interface PyQt6
+│                         crypto.py            # Fonctions de chiffrement/déchiffrement
+│                         keys.py              # Génération des clés RSA
 │
 │
 keys/
-  ├── private_key.pem           # Clé privée générée (exclue du dépôt)
-  └── public_key.pem            # Clé publique générée (exclue du dépôt)
+  ├── private_key.pem                          # Clé privée générée (exclue du dépôt)
+  └── public_key.pem                           # Clé publique générée (exclue du dépôt)
 │
 logs/
-  └── history.log               # Historique des actions
+  └── history.log                              # Historique des actions
 │
-icon.ico                        # Icône
-main.py                         # Point d’entrée de l'application
+icon.ico                                       # Icône
+main.py                                        # Point d’entrée de l'application
 .gitignore
 LICENSE
 README.md

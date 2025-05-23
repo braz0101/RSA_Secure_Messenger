@@ -11,7 +11,7 @@
 - 🔒 **Chiffrement de message avec clé publique**
 - 🔓 **Déchiffrement de message avec clé privée**
 - 📂 **Support de clés externes (.pem)**
-- 📄  **Affichage de la clé publique**
+- 📄 **Affichage de la clé publique**
 - 🧾 **Historique des actions enregistrées dans un fichier `logs/history.log`**
 - 💻 **Interface graphique intuitive et responsive avec PyQt6**
 - 📦 **Installeur Windows disponible via Inno Setup (en option)**

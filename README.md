@@ -14,7 +14,6 @@
 - 📄 **Affichage de la clé publique**
 - 🧾 **Historique des actions enregistrées dans un fichier `logs/history.log`**
 - 💻 **Interface graphique intuitive et responsive avec PyQt6**
-- 📦 **Installeur Windows disponible via Inno Setup (en option)**
 
 ---
 

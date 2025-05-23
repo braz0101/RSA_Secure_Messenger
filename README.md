@@ -62,8 +62,8 @@ rsa_secure_messenger_pyqt6├── app/
 │
 │
 keys/
-  ├── private_key.pem                          # Clé privée générée (exclue du dépôt)
-  └── public_key.pem                           # Clé publique générée (exclue du dépôt)
+  ├── private_key.pem                          # Clé privée générée
+  └── public_key.pem                           # Clé publique générée
 │
 logs/
   └── history.log                              # Historique des actions
@@ -97,6 +97,7 @@ requirements.txt
 ## 🧪 Démonstration
 
 Voici un aperçu de l’utilisation de RSA Secure Messenger :
+
 <img width="596" alt="1" src="https://github.com/user-attachments/assets/5bb5b8ae-1314-4cf5-bc2a-c1da88cfc37b" />
 <img width="595" alt="2" src="https://github.com/user-attachments/assets/948f4a25-7d74-4975-8b01-893faf92cc41" />
 <img width="162" alt="3" src="https://github.com/user-attachments/assets/4f023571-cb37-497a-84f9-9cb1531766ef" />
